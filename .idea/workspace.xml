@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e40c06b7-cf7b-44ab-ba50-2aa137e98303" name="Changes" comment="Removed _site">
+    <list default="true" id="e40c06b7-cf7b-44ab-ba50-2aa137e98303" name="Changes" comment="Add .nojekyll">
+      <change afterPath="$PROJECT_DIR$/static/strategy_performance_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/strategy_performance_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/strategy_performance_3.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_quarto.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_quarto.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/search.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/search.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.qmd" beforeDir="false" afterPath="$PROJECT_DIR$/index.qmd" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +108,23 @@
       <option name="project" value="LOCAL" />
       <updated>1743712676682</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add docs">
+      <option name="closed" value="true" />
+      <created>1743714034594</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1743714034594</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add .nojekyll">
+      <option name="closed" value="true" />
+      <created>1743714276784</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1743714276784</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +146,8 @@
     <MESSAGE value="Revert &quot;web build and test&quot;&#10;&#10;This reverts commit ced940b7" />
     <MESSAGE value="Add _site so website can be rendered" />
     <MESSAGE value="Removed _site" />
-    <option name="LAST_COMMIT_MESSAGE" value="Removed _site" />
+    <MESSAGE value="Add docs" />
+    <MESSAGE value="Add .nojekyll" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add .nojekyll" />
   </component>
 </project>

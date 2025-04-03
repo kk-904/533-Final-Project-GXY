@@ -11,6 +11,20 @@
     "href": "index.html",
     "title": "533 Final",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Moving average convergence/divergence (MACD) is a trend-following momentum indicator that shows the relationship between two exponential moving averages (EMAs) of a security’s price.\n\n\n\nThe relative strength index (RSI) measures the speed and magnitude of a security’s recent price changes to detect overbought or oversold conditions in the price of that security. The RSI is displayed as an oscillator (a line graph) on a scale of zero to 100.\n\n\n\nThe yield curve spread is the difference between the yields on long-term and short-term treasury bonds. It is often used as an indicator of economic activity and can signal potential recessions or expansions. Here we are using the 10-year and 2-month treasury yield spread.\n\n\n\n\n\nSignal 1: When MACD of a trading period exceeds the signal line and RSI exceeds the upper threshold (e.g 70), it indicates a Boorish trend, we long. When MACD of a trading period failed to exceed the signal line, and RSI falls below the lower threshold (e.g 30), it indicates a Bearish trend, we short. This indicator has higher priority than the weight score.\nSignal 2: We compute a weighted score of the Z-score of RSI, MACD and Yield Curve Spread. The weight is 0.2, 0.5, 0.3 respectively, if the weighted score &gt; 0 we long the stock, else we short it."
+  },
+  {
+    "objectID": "index.html#identify-trend",
+    "href": "index.html#identify-trend",
+    "title": "533 Final",
+    "section": "Identify Trend",
+    "text": "Identify Trend"
+  },
+  {
+    "objectID": "index.html#indicators",
+    "href": "index.html#indicators",
+    "title": "533 Final",
+    "section": "",
+    "text": "Moving average convergence/divergence (MACD) is a trend-following momentum indicator that shows the relationship between two exponential moving averages (EMAs) of a security’s price.\n\n\n\nThe relative strength index (RSI) measures the speed and magnitude of a security’s recent price changes to detect overbought or oversold conditions in the price of that security. The RSI is displayed as an oscillator (a line graph) on a scale of zero to 100.\n\n\n\nThe yield curve spread is the difference between the yields on long-term and short-term treasury bonds. It is often used as an indicator of economic activity and can signal potential recessions or expansions. Here we are using the 10-year and 2-month treasury yield spread."
   }
 ]
