@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e40c06b7-cf7b-44ab-ba50-2aa137e98303" name="Changes" comment="" />
+    <list default="true" id="e40c06b7-cf7b-44ab-ba50-2aa137e98303" name="Changes" comment="Removed _site">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_quarto.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_quarto.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,7 +87,23 @@
       <option name="project" value="LOCAL" />
       <updated>1743109539661</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add _site so website can be rendered">
+      <option name="closed" value="true" />
+      <created>1743712560206</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1743712560206</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Removed _site">
+      <option name="closed" value="true" />
+      <created>1743712676682</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1743712676682</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,6 +123,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Modified .gitignore" />
     <MESSAGE value="Revert &quot;web build and test&quot;&#10;&#10;This reverts commit ced940b7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;web build and test&quot;&#10;&#10;This reverts commit ced940b7" />
+    <MESSAGE value="Add _site so website can be rendered" />
+    <MESSAGE value="Removed _site" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed _site" />
   </component>
 </project>
