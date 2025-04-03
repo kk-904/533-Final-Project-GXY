@@ -30,7 +30,7 @@ This indicator has higher priority than the weight score.
 
 We tested our strategy on Tesla (TSLA) stock from 2024 to 2025.
 
-![strategy_performance_1.png](static/strategy_performance_1.png)
+![strategy_performance_1.png](/static/strategy_performance_1.png)
 
 ![strategy_performance_2.png](static/strategy_performance_2.png)
 

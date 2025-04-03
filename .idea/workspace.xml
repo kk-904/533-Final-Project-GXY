@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e40c06b7-cf7b-44ab-ba50-2aa137e98303" name="Changes" comment="Add .nojekyll">
-      <change afterPath="$PROJECT_DIR$/static/strategy_performance_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/strategy_performance_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/strategy_performance_3.png" afterDir="false" />
+    <list default="true" id="e40c06b7-cf7b-44ab-ba50-2aa137e98303" name="Changes" comment="Rendered website for updated strategy">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/search.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/search.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.qmd" beforeDir="false" afterPath="$PROJECT_DIR$/index.qmd" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -124,7 +119,23 @@
       <option name="project" value="LOCAL" />
       <updated>1743714276784</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Updated strategy">
+      <option name="closed" value="true" />
+      <created>1743718450629</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1743718450629</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Rendered website for updated strategy">
+      <option name="closed" value="true" />
+      <created>1743718494424</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1743718494424</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,6 +159,8 @@
     <MESSAGE value="Removed _site" />
     <MESSAGE value="Add docs" />
     <MESSAGE value="Add .nojekyll" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add .nojekyll" />
+    <MESSAGE value="Updated strategy" />
+    <MESSAGE value="Rendered website for updated strategy" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rendered website for updated strategy" />
   </component>
 </project>
